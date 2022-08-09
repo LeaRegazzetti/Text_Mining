@@ -1,4 +1,5 @@
 Objectifs du projet :
+
 • Choisir un corpus à traiter, extrait des sites d’offres d’emploi accessibles en ligne (ex. emploipublic.fr, emploi-territorial.fr, APEC, indeed, etc.)
 
 • On souhaite analyse le corps (texte) des annonces. Mettez le focus sur un type d’emploi ou de compétences.
@@ -10,6 +11,7 @@ Objectifs du projet :
 
 
 Spécifications techniques : 
+
 • Autant que possible, les offres d’emplois seront « aspirées » à l’aide de techniques de « web scraping » (pas manuellement donc) (ex. rvest, etc.). Les sources et la procédure utilisée doivent être décrites en détail dans le rapport.
 
 • Cette procédure est destinée à alimenter une base de données, laquelle doit être modélisée sous la forme d’un entrepôt (faits, dimensions). La base est stockée dans un SGBD libre (ex. MySQL, SQLite, etc.).
